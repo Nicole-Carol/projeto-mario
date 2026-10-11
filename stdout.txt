@@ -1,0 +1,10 @@
+Reading config file C:\Users\Nicole\Desktop\projeto-visao\snes9x.conf.
+Saving	config file	C:\Users\Nicole\Desktop\projeto-visao\snes9x.conf
+No ROM file header found.
+Map_LoROMMap
+"SUPER MARIOWORLD" (NTSC) version 1.0
+ROM+RAM+BAT: LoROM: 4 Mbit, SRAM: 16 Kbit
+ID: ____, CRC32: b19ed489, Checksum OK
+Saving	config file	C:\Users\Nicole\Desktop\projeto-visao\snes9x.conf
+Saving	config file	C:\Users\Nicole\Desktop\projeto-visao\snes9x.conf
+Saving	config file	C:\Users\Nicole\Desktop\projeto-visao\snes9x.conf
