@@ -60,6 +60,7 @@ Clone o repositório:
 
 bash
 git clone https://github.com/Nicole-Carol/projeto-mario.git
+
 cd projeto-mario
 
 Crie um ambiente virtual (recomendado):
@@ -68,6 +69,7 @@ bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate  # Linux/Mac
+
 Instale as dependências:
 
 bash
@@ -82,7 +84,9 @@ Execute o script de visão computacional:
 
 bash
 python main.py
+
 🧠 Como Funciona
+
 Captura: A tela do emulador é capturada continuamente.
 
 Pré-processamento: A imagem é convertida para escala de cinza, binarizada e filtrada.
