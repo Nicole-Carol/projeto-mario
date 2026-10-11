@@ -61,6 +61,7 @@ Clone o repositório:
 bash
 git clone https://github.com/Nicole-Carol/projeto-mario.git
 cd projeto-mario
+
 Crie um ambiente virtual (recomendado):
 
 bash
